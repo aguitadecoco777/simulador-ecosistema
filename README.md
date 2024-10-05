@@ -1,1 +1,3 @@
 ## Aquí dejarás tu documentación, por qué decidiste realizar esas optimización y cómo resolvistes los ejercicios de lógica...
+Lo primero que hago es cambiar los valores magicos
+luego cambio el resto de valores magicos en los for y en cada uno de los demas lugares donde aparecia el 20 referente a la matriz
